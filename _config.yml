@@ -1,8 +1,7 @@
-name: "Name"
-description: "Desc"
-
-url: "http://localhost:4000"
-https.ssl_version:'SSLv23'
-paginate: 10
+--- 
+description: Never leave the ground
 encoding: utf-8
 highlighter: rouge
+name: Back to basics
+paginate: 10
+url: "http://localhost:4000"
