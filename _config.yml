@@ -1,0 +1,8 @@
+name: "Name"
+description: "Desc"
+
+url: "http://localhost:4000"
+https.ssl_version:'SSLv23'
+paginate: 10
+encoding: utf-8
+highlighter: rouge
