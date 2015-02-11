@@ -1,7 +1,26 @@
---- 
-description: Never leave the ground
-encoding: utf-8
-highlighter: rouge
-name: Back to basics
-paginate: 10
-url: "http://localhost:4000"
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               pccofvns
+tagline:             'A nomad from Varanasi'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Prashant C Chaturvedi
+  url:               https://twitter.com/pccfrmvns
+  email:             pccfrmvns@gmail.com
+
+# Custom vars
+version:             1.0.0
