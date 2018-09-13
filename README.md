@@ -1,3 +1,3 @@
 # Navigation
 
-[My CV](http://pccofvns.github.io/cv)
+[My CV](https://pccofvns.github.io)
