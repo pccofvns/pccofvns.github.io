@@ -1,0 +1,151 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Prashant C Chaturvedi
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: pccfrmvns@gmail.com
+    phone: +91 888 280 5280
+    website: pccofvns.github.io #do not add http://
+    linkedin: pccofvns
+    github: pccofvns
+    gitlab:
+    bitbucket:
+    twitter: '@pccofvns'
+    stack-overflow: pccofvns
+    codewars:
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Native
+
+    interests:
+      - item: Trekking
+        link: https://mountaineeringguide.blogspot.com/
+
+      - item: Mountaineering
+        link: https://mountaineeringguide.blogspot.com/
+
+      - item: Reading
+        link: http://goodreads.com/pccofvns
+
+      - item: Swimming
+        link: 
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Software Engineer with a broad range of experience in developing full stack of n-tier and client/server, microservices applications.
+      Innovative and Free Thinker. Interested in challenging projects. Specialties: Software Engineering, Design and Architecture, Java/JEE, JavaScript, nodejs, angularjs
+
+education:
+    - degree: BTech in Electronics
+      university: I.E.T. Lucknow
+      time: 2005 - 2009
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point 
+
+experiences:
+    - role: Sr. Lead Software Engineer
+      time: Jun 2014 – Present
+      company: hCentive, Noida
+      details: |
+        Low level design and development of State Health Exchanges as per Patient Protection and Affordable Care Act (ACA, known colloquially as "Obamacare") of USA.
+
+          - Producing technical design for developers to work on after discussion with business analysts.
+          - Improve quality code delivered by Development 
+          - Streamline and improve technology stacks used in organization. 
+          - Full stack development of the web application
+
+    - role: Senior Software Engineer
+      time: Sep 2012 - May 2014
+      company: 3Pillar Global, Noida
+      details: |
+        Design and Development of Advance Advertising System for platforms like iTV, IPTV, VOD (Video On Demand), Cable TV etc. as per the standards define by The Society of Cable Telecommunications Engineers or SCTE.
+
+#          - Bullet point
+#          - Bullet point
+
+    - role: Software Engineer
+      time: Feb 2005 - Augu 2009
+      company: GlobalLogic, Noida
+      details: |
+        Design and development of web applications/services mobile applications in different projects.
+
+#          - Bullet point
+#          - Bullet point
+
+projects:
+    title: Projects
+    intro: >
+      Other projects.
+
+    assignments:
+      - title: MyForm16
+        link: "http://www.myform16.com"
+        tagline: "Income Tax eFiling simplified. Webapp for filing Income Tax Return online in India"
+
+      - title: School Management System
+        link: "#"
+        tagline: "A web application along with REST API for mobile apps to manage day to day interactions between school administration, teachers, students and their parents."
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Java/JEE
+        level: 90%
+
+      - name: Javascript & jQuery
+        level: 70%
+
+      - name: Web Development
+        level: 90%
+
+      - name: HTML5 & CSS
+        level: 50%
+
+      - name: Ruby on Rails
+        level: 30%
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
