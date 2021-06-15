@@ -64,9 +64,9 @@ education:
 #          - Bullet point 
 
 experiences:
-    - role: Sr. Lead Software Engineer
+    - role: Manager Technology
       time: Jun 2014 – Present
-      company: hCentive, Noida
+      company: Optum, Noida
       details: |
         Low level design and development of State Health Exchanges as per Patient Protection and Affordable Care Act (ACA, known colloquially as "Obamacare") of USA.
 
