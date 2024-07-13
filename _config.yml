@@ -3,10 +3,12 @@
 # Site Settings
 name: Prashant C Chaturvedi
 title: Compass
-url: 'https://pccofvns.github.io'
-baseurl: '' #change it according to your repository name
+url: "https://pccofvns.github.io"
+baseurl: "" #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
+plugins:
+  - jekyll-gist
 
 cv:
   title: Prashant's CV
@@ -29,7 +31,6 @@ compass:
   twitter: "pccofvns"
 # Tracker
 analytics: UA-11391792-7
-
 
 # Sass/SCSS
 sass:
