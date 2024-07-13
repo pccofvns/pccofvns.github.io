@@ -9,6 +9,8 @@ baseurl: "" #change it according to your repository name
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 plugins:
   - jekyll-gist
+gist:
+  noscript: false
 
 cv:
   title: Prashant's CV
