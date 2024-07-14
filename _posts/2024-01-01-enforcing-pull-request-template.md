@@ -74,3 +74,7 @@ scripts
 ├── requirements.txt
 ├── gh_pull_request_linter.py
 ```
+
+## Working Examples
+
+You can visit my `[pccofvns/scripts](https://github.com/pccofvns/scripts)` repo for working example. To use the same pr lint process in other repos, see `[pccofvns/takshashila](https://github.com/pccofvns/scripts)` repo. 
