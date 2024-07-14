@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Practices: Enforcing Pull Request Template"
-date: 2018-09-12
+date: 2024-01-01
 ---
 
 ## Overview
