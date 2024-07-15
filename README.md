@@ -9,7 +9,7 @@
 ```shell
 brew install chruby ruby-install xz
 ruby-install ruby
-# If you’re using Bash, replace .zshrc with .bash_profile
+# If you're using Bash, replace .zshrc with .bash_profile
 echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
 echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
  # run 'chruby' to see actual version
