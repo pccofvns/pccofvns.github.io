@@ -35,12 +35,12 @@ You will need Ruby and Bundler installed. If you are on a Mac, it is highly reco
 ```bash
 # Example setup using Homebrew & chruby (macOS)
 brew install chruby ruby-install
-ruby-install ruby-3.3.4
+ruby-install ruby-4.0.2
 
 # Add to your ~/.zshrc or ~/.bash_profile
 echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
 echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
-echo "chruby ruby-3.3.4" >> ~/.zshrc
+echo "chruby ruby-4.0.2" >> ~/.zshrc
 source ~/.zshrc
 ```
 
