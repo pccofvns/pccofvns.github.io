@@ -73,29 +73,33 @@ experiences:
       details: |
         Leading full-stack engineering teams delivering mission-critical healthcare platform modernization programs.
 
-          - Architecture ownership across microservices, Java/JEE, and JavaScript ecosystems
+          - Architecture ownership across software components, platform, and services.
           - Engineering culture building — mentoring engineers, raising the bar on code reviews and design practices
           - Cross-functional collaboration between product, business, and engineering stakeholders
+          - Drive execution of complex, cross-team initiatives with focus on quality, scalability, and long-term maintainability
+          - Plan and execute Technology Roadmap
+          - Improve Engineering Practices and Processes, and efficiency using AI and automation
+          
     - role: Sr. Manager Technology
       time: Oct 2021 - Feb 2026
       company: Optum, Noida
       details: |
         Leading full-stack engineering teams delivering mission-critical healthcare platform modernization programs.
 
-          - Architecture ownership across microservices, Java/JEE, and JavaScript ecosystems
-          - Engineering culture building — mentoring engineers, raising the bar on code reviews and design practices
+          - Architecture ownership across software components, platform, and services.
           - Cross-functional collaboration between product, business, and engineering stakeholders
+          - Plan and execute Technology Roadmap
+          - Improve Engineering Practices and Processes, and efficiency using automation
     - role: Manager Technology
       time: Jun 2014 - Oct 2021
       company: Optum, Noida
       details: |
-        Low level design and development of State Health Exchanges as per Patient Protection and Affordable Care Act (ACA) of USA. Evolved from key architect for income module to overall product architecture.
+        Low level design and development of State Health Exchanges as per Patient Protection and Affordable Care Act (ACA) of USA.
 
           - Producing technical design for developers to work on after discussion with business analysts
           - Architected and led one of the most challenging and critically important modernization projects
           - Streamline and improve technology stacks used in organization
           - Full stack development of the web application
-          - Consistently rated 5 — Exceeds Expectations
 
     - role: Senior Software Engineer
       time: Sep 2012 - May 2014
