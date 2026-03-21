@@ -2,6 +2,7 @@
 layout: post
 title: "Best Practices: Enforcing Pull Request Template"
 date: 2024-01-01
+tags: [DevOps, GitHub Actions]
 ---
 
 ## Overview
