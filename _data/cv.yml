@@ -68,18 +68,26 @@ education:
 
 experiences:
     - role: Director of Software Engineering
-      time: Mar 2026 – Present
-      company: Optum (UnitedHealth Group), Noida
+      time: Mar 2026 - Present
+      company: Optum, Noida
       details: |
         Leading full-stack engineering teams delivering mission-critical healthcare platform modernization programs.
 
           - Architecture ownership across microservices, Java/JEE, and JavaScript ecosystems
           - Engineering culture building — mentoring engineers, raising the bar on code reviews and design practices
           - Cross-functional collaboration between product, business, and engineering stakeholders
+    - role: Sr. Manager Technology
+      time: Oct 2021 - Feb 2026
+      company: Optum, Noida
+      details: |
+        Leading full-stack engineering teams delivering mission-critical healthcare platform modernization programs.
 
+          - Architecture ownership across microservices, Java/JEE, and JavaScript ecosystems
+          - Engineering culture building — mentoring engineers, raising the bar on code reviews and design practices
+          - Cross-functional collaboration between product, business, and engineering stakeholders
     - role: Manager Technology
-      time: Jun 2014 – Feb 2026
-      company: hCentive India → Optum, Noida
+      time: Jun 2014 - Oct 2021
+      company: Optum, Noida
       details: |
         Low level design and development of State Health Exchanges as per Patient Protection and Affordable Care Act (ACA) of USA. Evolved from key architect for income module to overall product architecture.
 
@@ -133,7 +141,7 @@ experiences:
 #
 #      - title: A syntax directed compiler for Algol 60
 #        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+#        conference: "Comm. ACM 4 (1961), 51-55"
 
 skills:
     title: Skills &amp; Proficiency
