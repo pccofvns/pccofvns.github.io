@@ -21,7 +21,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Prashant C Chaturvedi"
   # tagline will appear under the title (optional)
-  tagline: "A perpetual wanderer"
+  tagline: "चरैवेति, चरैवेति (/tʃʌraɪveɪtiː tʃʌraɪveɪtiː/)"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
