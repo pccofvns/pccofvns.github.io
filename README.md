@@ -72,4 +72,8 @@ Any push to the `master` branch triggers the deployment workflow defined in `.gi
 
 - **To update CV details:** Edit `_data/cv.yml`. The template will automatically render the new data.
 - **To change the theme color:** Open `assets/css/cv.scss` and change `@import "skins/ceramic";` to another skin file located in `_sass/skins/`.
-- **To write a blog post:** Add a new Markdown file in the `_posts/` directory following the `YYYY-MM-DD-title.md` naming convention.
+- **To write a blog post:** Add a new Markdown file in the `_posts/` directory following the `YYYY-MM-DD-title.md` naming convention. Supported front matter fields:
+  - `title`: post title
+  - `date`: publish date
+  - `tags`: optional array, e.g. `tags: [DevOps, GitHub Actions]` — shown as badges on index and post pages
+  - Add a `<!--more-->` marker in the body to control where the excerpt is cut off on the index page
